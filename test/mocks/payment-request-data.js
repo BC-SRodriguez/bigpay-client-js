@@ -34,6 +34,7 @@ const paymentRequestDataMock = {
             integerAmount: 10000,
         },
         taxTotal: {
+            amount: 10.0,
             integerAmount: 1000,
         },
         items: [
@@ -89,6 +90,7 @@ const paymentRequestDataMock = {
             integerAmount: 10000,
         },
         taxTotal: {
+            amount: 10.0,
             integerAmount: 1000,
         },
         token: 'abc123',
